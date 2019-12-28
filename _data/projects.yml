@@ -5,6 +5,6 @@
   quote: >
     An open source gaming platform on Android.
   description: | # this will include new lines to allow paragraphs
-   - Designed and developed game Sliding Tiles, Sudoku in Java and Android |
-   - Designed and developed the user interface in Android |
-   - Created and documented the test cases |
+   - Designed and developed game Sliding Tiles, Sudoku in Java and Android
+   - Designed and developed the user interface in Android
+   - Created and documented the test cases
