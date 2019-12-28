@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Yuchen Wang
-title: third-year CS student at the University of Toronto
+title: undergraduate CS student at the University of Toronto
 email: rainawang217@gmail.com
 website: yuchenwyc.github.io
 
@@ -22,9 +22,9 @@ linkedin_username: yuchenwyc
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+# about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Yuchen and I'm a third-year CS student at the University of Toronto. I was a summer research student under Professor Bo Wang, I am an incoming summer 
+  Hi, my name is Yuchen and I'm a third-year CS student at the University of Toronto. I was a summer research student under Professor Bo Wang. I am an incoming summer 
   research student under Professor Roger Grosse.
 
 # Projects Section
