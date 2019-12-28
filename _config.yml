@@ -3,30 +3,29 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Yuchen Wang
+title: third-year CS student at the University of Toronto
+email: rainawang217@gmail.com
+website: yuchenwyc.github.io
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: YuchenW10030993
+github_username:  yuchenWYC
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+# instagram_username: chillwildlife
+linkedin_username: yuchenwyc
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name's Yuchen and I'm a third-year CS student at the University of Toronto. I was a summer research student under Professor Bo Wang, I am an incoming summer 
+  research student under Professor Roger Grosse.
 
 # Projects Section
 # projects_title: Projects
