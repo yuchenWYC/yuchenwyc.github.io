@@ -2,5 +2,6 @@
 
 ## Running Locally
 
-``bundle exec jekyll serve``
-``Open your browser to http://localhost:4000``
+1. Head to your repo folder in terminal
+2.run ``bundle exec jekyll serve``
+3.run ``Open your browser to http://localhost:4000``
