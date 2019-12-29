@@ -6,10 +6,11 @@
 #   quote: >
 #    Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
-    Project 1: Post-Transplant Complication Mortality Prediction Using Deep Learning from Longitudinal Electronic Health Records Data
-    * Supervisors: Prof. Bo Wang and Dr Mamatha Bhat
-    * Focus: Deep learning, AI healthcare, statistical analysis, data analytics
-    * Status: In the progress of submitting to the journal JAMA
-    Project 2: Single Cell Trajectory Inference using Deep Learning
-    * Supervisor: Prof. Bo Wang
-    * Focus: Deep learning, unsupervised learning, single cell, trajectory inference
+                Project 1: Post-Transplant Complication Mortality Prediction Using Deep Learning from Longitudinal Electronic Health Records Data
+                * Supervisors: Prof. Bo Wang and Dr Mamatha Bhat
+                * Focus: Deep learning, AI healthcare, statistical analysis, data analytics
+                * Status: In the progress of submitting to the journal JAMA
+                
+                Project 2: Single Cell Trajectory Inference using Deep Learning
+                * Supervisor: Prof. Bo Wang
+                * Focus: Deep learning, unsupervised learning, single cell, trajectory inference
