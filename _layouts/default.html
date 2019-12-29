@@ -12,6 +12,32 @@
 
             {%- include about.html -%}
 
+            <style type="text/css">
+                .example_e {
+                border: none;
+                background: #404040;
+                color: #ffffff !important;
+                font-weight: 200;
+                padding: 20px;
+                text-transform: uppercase;
+                border-radius: 6px;
+                display: inline-block;
+                transition: all 0.3s ease 0s;
+                font-size: 15px;
+                font-weight: bold;
+                }
+                .example_e:hover {
+                color: #404040 !important;
+                font-weight: 700 !important;
+                letter-spacing: 3px;
+                background: none;
+                -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+                -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+                transition: all 0.3s ease 0s;
+                }
+            </style>
+            <div class="button_cont" align="center"><a class="example_e" href="files/resume/yuchen_resume.pdf" target="_blank" rel="nofollow noopener">Curriculum Vitae</a></div>
+
             {%- if site.data.projects.size > 0 -%}
                 {%- include projects.html -%}
             {%- endif -%}
@@ -31,10 +57,10 @@
 
     {%- include footer.html -%}
 
-    <a href="https://github.com/sproogen/resume-theme" target="_blank">
+    <!-- <a href="https://github.com/sproogen/resume-theme" target="_blank">
       <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"
         alt="Fork me on GitHub">
-    </a>
+    </a> -->
 
 </body>
 
