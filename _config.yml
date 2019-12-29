@@ -1,10 +1,10 @@
 # Site
 repository: yuchenWYC/yuchenwyc.github.io
-# favicon: images/favicon.ico
+favicon: files/lion.png
 
 # Personal info
 name: Yuchen Wang
-title: undergraduate CS student at the University of Toronto
+title: undergrad @ UofT
 email: rainawang217@gmail.com
 
 # Social links
