@@ -1,15 +1,15 @@
 - layout: left
   name: University of Toronto
   dates: 2017 - 2021 (expected)
-  qualification: BSc Art & Science
+  qualification: Honour's Bachelor of Science
 #   quote: >
 #     Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
   description: | # this will include new lines to allow paragraphs
-    I am currently enrolled in Computer Science specialist, Data Science specialist and Mathematics minor programs.
+    I am currently enrolled in Computer Science specialist, Statistics major and Mathematics minor programs.
 
 - layout: left
   name: Xi'an Tieyi High School
   dates: 2014 - 2017
   qualification: High School
-  quote: >
+  description: |
     Established in 1929, one of the most famous and the most competitive high schools in Shannxi Province of China.
