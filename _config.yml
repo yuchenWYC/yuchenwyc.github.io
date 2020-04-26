@@ -23,8 +23,7 @@ linkedin_username: yuchenwyc
 # about_title: About Me
 about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
-I am a third-year Computer Science student at the University of Toronto. I also study a little statistics and mathematics, because mathematics is the foundation of statistics, and statistics is the foundation of all subjects. I currently work under Professor Roger Grosse in deep learning problems.
-I found the area of deep learning very fascinating and essential to the current innovation process of both academic and industry world. You are welcome to contact me and start a conversation if you have similar interests. (Find out my experiences and contact information in my CV below)
+  I am a third-year Computer Science student at the University of Toronto. I also study a little statistics and mathematics, because mathematics is the foundation of statistics, and statistics is the foundation of all subjects. I currently work under Professor Roger Grosse in deep learning problems. I found the area of deep learning very fascinating and essential to the current innovation process of both academic and industry world. You are welcome to contact me and start a conversation if you have similar interests. (Find out my experiences and contact information in my CV below)
 
 # Projects Section
 # projects_title: Projects
