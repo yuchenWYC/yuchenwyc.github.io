@@ -60,15 +60,15 @@ body {
 		}
 	}
 }
-a {
-	transition: .3s all ease;
-	color: $primary;
-	&:hover, &:focus {
-		text-decoration: none;
-		color: $primary;
-		outline: none !important;
-	}
-}
+// a {
+// 	transition: .3s all ease;
+// 	color: $primary;
+// 	&:hover, &:focus {
+// 		text-decoration: none;
+// 		color: $primary;
+// 		outline: none !important;
+// 	}
+// }
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
 	line-height: 1.5;
@@ -753,6 +753,15 @@ h1, h2, h3, h4, h5,
 	}
 }
 
+.my_img{
+	display: ;
+	height: 400px;
+	width: 100%;
+	@include border-radius(3px);
+	&.my_img-2_{
+		height: 330px;
+	}
+}
 
 
 //BLOG ENTRY
